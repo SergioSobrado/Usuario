@@ -53,7 +53,7 @@ namespace Usuario
 
             // Mario.SetName = "Mariosky";
             Mario.SetName("Mariosky");
-            Mario.SetCorrep("Mariosky@gmail.com");
+            Mario.SetCorrep("Marioscky@gmail.com");
             Mario.SetSegudores(80);
 
 
